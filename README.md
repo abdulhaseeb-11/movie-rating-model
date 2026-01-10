@@ -20,6 +20,7 @@ To run this project locally, follow these steps:
 
 .pip install pandas
 .scikit-learn
+.matplotlib
 
 3.Run the Notebook:
 
@@ -30,3 +31,4 @@ Open movie_rating_prediction.ipynb in VS Code or Jupyter Notebook.
 .Python
 .Pandas (Data Manipulation)
 .Scikit-learn (Machine Learning)
+.Matplotlib (Data Visualization)
